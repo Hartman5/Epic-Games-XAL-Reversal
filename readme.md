@@ -15,4 +15,4 @@ I've fully-reversed Epic Games, and have written an undetected Epic Games accoun
 
 # Questions
 
-Telegram - @Hartman50
+Telegram - @reversewasm
